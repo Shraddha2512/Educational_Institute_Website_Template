@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    
+  }
+   
+  .about-section {
+    padding: 50px;
+    text-align: center;
+    background-color: #be2727;
+    color: white;
+  }
+  
+  .title {
+    color: grey;
+  }
+  
+ .VM {
+    text-align: center;
+ }
+ 
